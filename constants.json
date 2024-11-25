@@ -1,0 +1,19 @@
+{
+    "CLIENT_ID":"",
+    "CLIENT_SECRET":"",
+    "TENANT_ID":"common",
+    "REDIRECTED_URI":"http://localhost:8000",
+    "SCOPES":["User.Read", "Mail.Read"],
+    "GRAPH_API_URL":"https://graph.microsoft.com/v1.0/me",
+    "FOLDER_NAME":"targetfolder",
+    "ATTACHMENT_SAVE_PATH":"save_folder",
+    "EXTRACT_TO_FOLDER":"extracted_folder",
+
+    "extracted_folder_path":"extracted_folder/DE Case Study",
+    "postgresql_host" : "",
+    "postgresql_port" : "",
+    "postgresql_database" : "",
+    "postgresql_user" : "",
+    "postgresql_password" :""
+
+}
